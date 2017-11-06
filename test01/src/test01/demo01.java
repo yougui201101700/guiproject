@@ -13,7 +13,7 @@ package test01;
 public class demo01 {
 		public static void main(String[] args) {
 			if(i = 0,i<100,i++){
-				System.out.println("hello world git！！！！");
+				System.out.println("hello world git！！！！,看到你的世界");
 			}
 			
 		}
